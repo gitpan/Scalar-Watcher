@@ -1,5 +1,5 @@
 ---
-abstract: 'watch a scalar variable when setting value'
+abstract: 'watch a scalar variable when setting value or destroying it'
 author:
   - 'Cindy Wang (CindyLinz) <cindy@cpan.org>'
 build_requires:
@@ -18,4 +18,4 @@ no_index:
     - t
     - inc
 requires: {}
-version: 0.002
+version: 0.002001
